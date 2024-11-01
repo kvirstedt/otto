@@ -31,27 +31,12 @@ Grädde
 Krämfräs
 
 
-_Fishtacos_
-Vitfisk
-Tonfisk
-Ingefära
-Chili
-Vattenkastanj
-Panko
-Mango
-Tomat
-Lime
-Avocado
-Rödlök
-Koriander
-Små tortillabrön
-
-
 _Höstig köttgryta delux(tm)_
 Kött
 Buljong
 Rotsaker
 Tomatpuré
+Allt annat..
 
 
 _Diverse_
@@ -59,3 +44,4 @@ Flingsalt (lul)
 Stålbollsgrej
 Diskborste
 Disktrasa
+Nagellack (genomskinligt)
